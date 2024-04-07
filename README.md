@@ -1,4 +1,4 @@
-#PHP connect redis
+# PHP & redis
 
 ## 安裝phpredis (需sudo)
 `sudo pecl install redis`
